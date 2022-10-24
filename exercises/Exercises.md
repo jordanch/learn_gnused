@@ -9,6 +9,7 @@
 # Introduction
 
 **a)** Replace `5` with `five` for the given stdin source.
+- [x]
 
 ```bash
 $ echo 'They ate 5 apples' | sed ##### add your solution here
@@ -16,6 +17,7 @@ They ate five apples
 ```
 
 **b)** Replace all occurrences of `0xA0` with `0x50` and `0xFF` with `0x7F` for the given input file.
+- [x]
 
 ```bash
 $ cat hex.txt
@@ -28,6 +30,7 @@ end address: 0x7F, func2 address: 0xB0
 ```
 
 **c)** The substitute command searches and replaces sequences of characters. When you need to map one or more characters with another set of corresponding characters, you can use the `y` command. Quoting from the manual:
+- [x]
 
 >**y/src/dst/** Transliterate any characters in the pattern space which match any of the source-chars with the corresponding character in dest-chars.
 
